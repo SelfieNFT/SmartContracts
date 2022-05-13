@@ -111,8 +111,4 @@ contract PhotoNFT is ERC721URIStorage {
 
     // function flagComment();
 
-    // function startAuction();
-    // function startLottery();
-
-
 }
